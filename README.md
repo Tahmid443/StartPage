@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Taqi Tahmid</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Django+%7C+Python;Always+learning+new+tech!+🚀" alt="Typing SVG" />
@@ -24,14 +24,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="170"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 
