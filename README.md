@@ -29,9 +29,9 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/taqi-tahmid-ab1a3026a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="tahmid.dhrubo204256@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tahmid-dhrubo.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
